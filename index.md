@@ -1,3 +1,5 @@
+<h1>Jelou</h1>
+
 ---
-title: Welcome to my blog!
+title: My blog!
 ---
